@@ -1,9 +1,9 @@
 [submodule "third_party/re2"]
 	path = third_party/re2
-	url = https://hub.fasthub.org/google/re2
+	url = https://hub.fastgit.org/google/re2
 [submodule "third_party/googletest"]
 	path = third_party/googletest
-	url = https://hub.fasthub.org/google/googletest.git
+	url = https://hub.fastgit.org/google/googletest.git
 [submodule "third_party/libFuzzer"]
 	path = third_party/libFuzzer
-	url = https://hub.fasthub.org/boh-inspur/Fuzzer
+	url = https://hub.fastgit.org/boh-inspur/Fuzzer
